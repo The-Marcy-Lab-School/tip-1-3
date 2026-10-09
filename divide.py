@@ -1,9 +1,9 @@
 def add(first, second):
     return first + second
 
-a = 10
-b = 3
-answer = add(a, b)
+first = 10
+second = 3
+answer = add(first, second)
 print(answer)
 
 # Predict:
@@ -18,6 +18,10 @@ def divide():
     pass
 
 # divide 56 by 7
+
+# and display the result
+
+# now divide 56 by 6
 
 # and display the result
 
